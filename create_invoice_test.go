@@ -1,4 +1,4 @@
-package github.com/dveldhoen/budgetinvoice
+package github.com/dveldhoen/budgetinvoice-go
 
 import "testing"
 
