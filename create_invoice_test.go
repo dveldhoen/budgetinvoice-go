@@ -1,4 +1,4 @@
-package dashweb/budgetinvoice
+package github.com/dveldhoen/budgetinvoice
 
 import "testing"
 
